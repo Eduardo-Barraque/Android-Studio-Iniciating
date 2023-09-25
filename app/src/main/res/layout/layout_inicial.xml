@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="315dp"
+        android:src="@drawable/arvore" />
+
+    <TextView
+        android:id="@+id/telinha1"
+        android:layout_width="match_parent"
+        android:layout_height="38dp"
+        android:text="@string/Titulo"
+        android:textAlignment="gravity"
+        android:textSize="20dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="96dp"
+        android:text="@string/Lorem" />
+
+    <Button
+        android:id="@+id/botao1"
+        android:layout_width="wrap_content"
+        android:text="@string/proxima_pagina"
+        android:clickable="true"
+        android:layout_height="wrap_content"/>
+
+
+</LinearLayout>

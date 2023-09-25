@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Lorem">Lorem Impsum Lorem ImpsumLorem ImpsumLorem ImpsumLorem ImpsumLorem ImpsumLorem ImpsumLorem ImpsumLorem ImpsumLorem ImpsumLorem Impsum</string>
+    <string name="Titulo">Arvore completa seus 99 anos de vida</string>
+    <string name="Arvore_historia">Localizado na montanha Fulufjället, na província de Dalarna, Suécia,o abeto norueguês de
+        9.550 anos ficou conhecido por ser a "árvore mais velha do mundo".Entrentanto, a Velha Tjikko, como é chamada,
+        é uma árvore clonal que gerou novos troncos,galhos e raízes ao longo dos milênios.</string>
+    <string name="proxima_pagina">Clique aqui para continuar</string>
+    <string name="Titulo2"></string>
+</resources>
