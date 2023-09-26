@@ -33,6 +33,12 @@
             android:text="@string/Lorem"
             android:textAlignment="gravity" />
     </LinearLayout>
+    <Button
+        android:id="@+id/botao2"
+        android:layout_width="wrap_content"
+        android:text="@string/voltar_pagina"
+        android:clickable="true"
+        android:layout_height="wrap_content"/>
 
 
 </LinearLayout>
